@@ -81,6 +81,7 @@ class ModMail(commands.AutoShardedBot):
         self._cogs = [
             "admin",
             "auto_close",
+            "claimable_queue",
             "configuration",
             "core",
             "direct_message",
