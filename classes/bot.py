@@ -93,6 +93,7 @@ class ModMail(commands.AutoShardedBot):
             "ops_metrics",
             "owner",
             "premium",
+            "scheduled_followups",
             "snippet",
             "tags"
         ]
